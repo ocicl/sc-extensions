@@ -3,6 +3,7 @@ on: [push, workflow_dispatch]
 jobs:
   ocicl_job:
     permissions:
+      contents: read
       packages: write
     runs-on: ubuntu-latest
     name: Test and publish package
