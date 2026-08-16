@@ -4,7 +4,7 @@ additional library for cl-collider
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/byulparan/sc-extensions.git |
-| commit  | 6ba8a72                                            |
+| commit  | d0dc85b                                            |
 | systems | sc-extensions                                      |
 |---------+----------------------------------------------------|
   
